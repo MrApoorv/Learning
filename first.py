@@ -7,3 +7,4 @@ def log(us,pas):
             print("YES")
 
 log(123,123)
+log(2345,543)
